@@ -24,3 +24,9 @@ permalink: /archives.html
     <li><span>{{ post.date | date:'%m-%d' }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+
+<!-- Comments -->
+<div class="comment">
+    {% include comments.html %}
+</div>

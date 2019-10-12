@@ -8,25 +8,18 @@ css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon
 permalink: /about
 ---
 
-    <div class="about row">
-        <div class="col-md-12">
-        
-            ## About me
-            
-            坐标上海，Java 开发
-            
-            ## Contact
-            
-            - GitHub: [Hanhuoer]: (<https://github.com/hanhuoer>)
-            - 掘金: [hanhuoer]: (<https://juejin.im/user/5c653cac518825629e060401>)
-            - Email: [hanhuoer@126.com](hanhuoer@126.com)
-    
-            <!-- Comments -->
-            <div class="comment">
-                {% include comments.html %}
-            </div>
-    
-        </div>
-    </div>
+## About me
 
+坐标上海，Java 开发
+
+## Contact
+
+- GitHub: [Hanhuoer]: (<https://github.com/hanhuoer>)
+- 掘金: [hanhuoer]: (<https://juejin.im/user/5c653cac518825629e060401>)
+- Email: [hanhuoer@126.com](hanhuoer@126.com)
+
+<!-- Comments -->
+<div class="comment">
+    {% include comments.html %}
+</div>
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java - 多线程编程 - CountDownLatch
+categories: [Java, 多线程]
 category: Java
 tags: [Java]
 keywords: Java,多线程,多线程编程

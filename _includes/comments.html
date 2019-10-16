@@ -72,6 +72,14 @@
 <script src="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/gitment.browser.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/default.css"/>
 <script>
+    // 解决 Validation Failed ID长度问题建议
+    // https://github.com/imsun/gitment/issues/116#issuecomment-414540375
+    var str='{{ page.date | date: "%Y-%m-%d" }} {{ page.title }}';
+    var id = str;
+    if(str.length>=45){
+        id=str.substring(0,45)+"...";
+    }
+
     var gitment = new Gitment({
         id: '{{ page.url }}',
         owner: '{{ site.gitment.owner }}',

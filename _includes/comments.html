@@ -81,7 +81,8 @@
     }
 
     var gitment = new Gitment({
-        id: '{{ page.url }}',
+        // id: '{{ page.url }}',
+        id: id,
         owner: '{{ site.gitment.owner }}',
         repo: '{{ site.gitment.repo }}',
         oauth: {

@@ -3,11 +3,12 @@ layout: page
 title: About Me
 titlebar: About
 menu: about
-subtitle:  <span class="mega-octicon octicon-person"></span>&nbsp;&nbsp; I am a programmer         
+subtitle:  <span class="mega-octicon octicon-person"></span>&nbsp;&nbsp; Java，后端，码农，程序猿
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
 permalink: /about
 ---
 
+<div class="about row">
 ## About me
 
 坐标上海，Java 开发
@@ -18,6 +19,7 @@ permalink: /about
 - 掘金: [hanhuoer](<https://juejin.im/user/5c653cac518825629e060401>)
 - Email: [hanhuoer@126.com](hanhuoer@126.com)
 
+</div>
 
 <hr/>
 

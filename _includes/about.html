@@ -1,8 +1,17 @@
 <div class="about row">
     <div class="col-md-12">
-        <h2>About me </h2>
+        <h2>About me</h2>
 
-        <!-- Comments -->
+        <p>坐标上海，Java 开发，后端，码农，程序猿</p>
+
+        <h2>Contact</h2>
+
+        <ul>
+            <li>Email：<a href="mailto:{{ site.email }}" target="_top">{{ site.email }}</a></li>
+            <li>GitHub：<a href="{{ site.github_url }}">{{ site.github_url }}</a></li>
+        </ul>
+
+        <!--Comments-->
         <div class="comment">
             {% include comments.html %}
         </div>

@@ -7,8 +7,10 @@ menu: Link
 permalink: /link
 ---
 
-## 友情链接
+## 推荐网站
 
+- [ityoukonw](http://www.ityouknow.com/) - 纯洁的微笑
+- [美团技术团队](https://tech.meituan.com/) - 美团技术团队
 - [人工智能教程博客](http://www.captainbed.net/blog-neo) - 一个幽默的系列课程
 - [沉默王二](http://www.qingmiaokeji.cn/) - 一个有趣的程序员
 - [江南一点雨](https://www.javaboy.org/) - 专注于 Spring Boot + 微服务
@@ -23,9 +25,7 @@ permalink: /link
 - [小柒博客](https://blog.52itstyle.vip) - 小柒博客，一个主JAVA，次架构，偶尔聊聊生活的地方。
 - [六月](http://www.liuyue.ren/) - 一个博友的博客
 - [荒蛮故事](http://relatos.top/) - 一个分享故事的网站
-
-## 推荐网站
-
+- [nexmoe](https://nexmoe.com/) - 一名中学生 phper
 - [小白学堂](http://www.itmind.net/) - 学的不仅是技术，更是前程！
 - [知识星球精选](http://www.zsxq100.com/just-talk-about-make-money) - 各种好玩的知识星球推荐
 - [抖音视频下载](https://free-tiktok.com/) - 抖音、Youtube、instagram视频去水印下载
@@ -38,17 +38,14 @@ permalink: /link
 - [wherebt](http://wherebt.com/) - 提供各种BT资源导航,主要收录了bt sync keys的分享网站
 - [公众号编辑器](http://md.ityouknow.com/) - 可以以优雅的方式在微信公众号去发布markdown文章
 - [技术博客联盟](http://techblog.pub/) - 原创技术博客作者交流的地方
+- [gitmoji](https://gitmoji.carloscuesta.me/) - gitmoji
 
 
 ## 个人链接
 
-- [ityouknow](https://hanhuoer.github.io/) - 个人独立博客
-- [github](https://github.com/hanhuoer) -  我分享代码的地方
-- [微博](http://weibo.com/ityouknow) -  我的微博
-- [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，回答一些问题
-- [博客园](https://www.cnblogs.com/ityouknow/) - 博客园推荐博客，排名前十五
-- [CSDN](http://blog.csdn.net/ityouknow)  - 博客专家，同步公号内容
-- [51CTO](http://blog.51cto.com/ityouknow) - 51CTO 推荐博客，排名前十
+- [H](https://hanhuoer.github.io/)
+- [Github](https://github.com/hanhuoer)
+- [Jusic](https://music.scoder.club) - 聊天、斗图、音乐、点播、娱乐
 
 ## 其它  
 

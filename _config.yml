@@ -129,9 +129,10 @@ side_bar_repo_limit: 6 # Number of repos to show
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
+skill_software_keywords: [Java, Python, MySQL, Oracle, Design Patterns]
+skill_j2ee_keywords: [Spring, SpringMVC, MyBatis, SpringBoot, SpringCloud, WebSocket]
+skill_dao_keywords: [MySQL, MongoDB, Redis]
+skill_web_keywords: [VueJS, HTML, CSS, JS, JQuery, Ajax, Axios, Boostrap, Layui, Element-UI, Muse-UI]
 skill_mobile_app_keywords: [vuejs, hyhird app]
 
 

@@ -15,7 +15,7 @@ keywords: Hanhuoer,Java,后端,程序员,程序猿
 encoding: "utf-8"
 favicon: favicon.ico
 
-repository: hanhuoer/hanhuoer.github.io
+repository: https://github.com/hanhuoer
 github_url: https://github.com/hanhuoer
 url: https://hanhuoer.github.io
 enforce_ssl: hanhuoer.github.io

@@ -7,45 +7,33 @@ menu: Link
 permalink: /link
 ---
 
-## 推荐网站
+## 常用社区
 
-- [ityoukonw](http://www.ityouknow.com/) - 纯洁的微笑
+- [掘金](https://juejin.im/) - 一个帮助开发者成长的社区
+- [V2EX](https://v2ex.com/) - V2EX = way to explore
+- [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，HacPai 分别取 Hacker / Painter 的头三个字母组成，源自《黑客与画家》。
+- [SpringBoot 中文社区](https://springboot.io/) - 这是SpringBoot开发者用于交流 Java、Spring、SpringBoot等相关技术的社区
+
+## 团队博客
+
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队
-- [人工智能教程博客](http://www.captainbed.net/blog-neo) - 一个幽默的系列课程
-- [沉默王二](http://www.qingmiaokeji.cn/) - 一个有趣的程序员
-- [江南一点雨](https://www.javaboy.org/) - 专注于 Spring Boot + 微服务
-- [闷瓜蛋子的博客](https://fookwood.com) - 八年博客，大公司小公司游荡多年，目前为自由职业
-- [Java极客技术](http://www.justdojava.com) - Java 技术人的一片天地
-- [匠心零度博客](http://www.jiangxinlingdu.com/) - 以匠心，铸非凡！
-- [麦田技术博客](http://blog.itmyhome.com/) - 将来的你，一定会感激现在拼命努力的自己。 
-- [王登科-DK博客](http://www.wdk.pw) - 一个技术创业者  
-- [猿天地](http://cxytiandi.com/) - 天地是一个综合性的网站,以程序猿用户为主,提供各种开发相关的内容。     
-- [rickiyeat的博客](http://blog.csdn.net/rickiyeat) - hadoop、spring boot/cloud技术博客   
-- [cmsblogs](http://cmsblogs.com/) - chenssy记录、分享JAVA技术
-- [小柒博客](https://blog.52itstyle.vip) - 小柒博客，一个主JAVA，次架构，偶尔聊聊生活的地方。
-- [六月](http://www.liuyue.ren/) - 一个博友的博客
-- [荒蛮故事](http://relatos.top/) - 一个分享故事的网站
-- [nexmoe](https://nexmoe.com/) - 一名中学生 phper
-- [小白学堂](http://www.itmind.net/) - 学的不仅是技术，更是前程！
-- [知识星球精选](http://www.zsxq100.com/just-talk-about-make-money) - 各种好玩的知识星球推荐
-- [抖音视频下载](https://free-tiktok.com/) - 抖音、Youtube、instagram视频去水印下载
-- [程序员导航网站](http://tooool.org/) - 程序员的导航网站 
-- [Spring Boot中文导航](http://springboot.fun/) - Spring Boot的资源导航网站    
-- [Spring Cloud中文导航](http://springcloud.fun/) - Spring Cloud的资源导航网站    
-- [MD工具](http://relatos.top/md/) - markdown转发html在线工具  
-- [htmlToMD工具](http://relatos.top/2md/) - 在线将页面转发为markdown工具  
-- [云收藏](http://www.favorites.ren/) - 一个在线云端的网络收藏夹，可以分享和查看其它人分享
-- [wherebt](http://wherebt.com/) - 提供各种BT资源导航,主要收录了bt sync keys的分享网站
-- [公众号编辑器](http://md.ityouknow.com/) - 可以以优雅的方式在微信公众号去发布markdown文章
-- [技术博客联盟](http://techblog.pub/) - 原创技术博客作者交流的地方
-- [gitmoji](https://gitmoji.carloscuesta.me/) - gitmoji
+- [阿里中间件团队博客](http://jm.taobao.org/) - 阿里中间件团队博客
 
+## 个人博客
+
+- [阮一峰的个人网站](http://www.ruanyifeng.com/) - Ruan Yifeng's Personal Website
+- [纯洁的微笑](http://www.ityouknow.com/) - 分享技术、感悟人生
+- [折影轻梦](https://nexmoe.com/) - 一名中学生 phper
+
+## 有趣
+
+- [Gitmoji](https://gitmoji.carloscuesta.me/) - Gitmoji is an emoji guide for GitHub commit messages
 
 ## 个人链接
 
-- [H](https://hanhuoer.github.io/)
+- [技术分享](https://hanhuoer.github.io/)
 - [Github](https://github.com/hanhuoer)
-- [Jusic](https://music.scoder.club) - 聊天、斗图、音乐、点播、娱乐
+- [Jusic 点歌台](https://music.scoder.club) - 聊天、斗图、音乐、点播、娱乐
 
 ## 其它  
 
@@ -53,4 +41,4 @@ permalink: /link
 
 - 网站名称：hanhuoer
 - 网站链接：https://hanhuoer.github.io
-- 网站描述：hanhuoer 的个人博客，分享技术，分享生活  
+- 网站描述：hanhuoer 的个人博客，分享技术，分享生活

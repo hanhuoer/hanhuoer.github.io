@@ -30,6 +30,7 @@ permalink: /link
 ## 有趣
 
 - [Gitmoji](https://gitmoji.carloscuesta.me/) - Gitmoji is an emoji guide for GitHub commit messages
+- [Magi](https://magi.com/) - Magi 很棒的一个检索系统，可以替代百度
 
 ## 个人链接
 

@@ -11,7 +11,7 @@ permalink: /link
 
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区
 - [V2EX](https://v2ex.com/) - V2EX = way to explore
-- [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，HacPai 分别取 Hacker / Painter 的头三个字母组成，源自《黑客与画家》。
+- [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，HacPai 分别取 Hacker / Painter 的头三个字母组成，源自《黑客与画家》
 - [SpringBoot 中文社区](https://springboot.io/) - 这是SpringBoot开发者用于交流 Java、Spring、SpringBoot等相关技术的社区
 
 ## 团队博客

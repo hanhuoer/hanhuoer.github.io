@@ -35,8 +35,8 @@ permalink: /link
 
 ## 个人链接
 
-- [技术分享](https://hanhuoer.github.io/)
-- [Github](https://github.com/hanhuoer)
+- [技术分享](https://hanhuoer.github.io/) - 学习记录
+- [Github](https://github.com/hanhuoer) - 代码仓库
 - [Jusic 点歌台](https://music.scoder.club) - 聊天、斗图、音乐、点播、娱乐
 
 ## 其它  

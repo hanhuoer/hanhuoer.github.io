@@ -102,7 +102,7 @@
 </div>
 <h3 class="sidebar-title">开源软件</h3>
 {% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
-{% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
+{% for repo in sorted_repos %}
     <div class="card text-center">
         <div class="thumbnail">
             <div class="card-image geopattern" data-pattern-id="{{ repo.name }}">

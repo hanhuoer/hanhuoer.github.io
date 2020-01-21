@@ -103,7 +103,7 @@
 <h3 class="sidebar-title">开源软件</h3>
 {% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
 {% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
-    {% if repo.name=='Musicoo' or repo.name=='Jusic-ui' %}
+<!--    {% if repo.name=='Musicoo' or repo.name=='Jusic-ui' %}-->
     <div class="card text-center">
         <div class="thumbnail">
             <div class="card-image geopattern" data-pattern-id="{{ repo.name }}">
@@ -132,7 +132,7 @@
             </div>
         </div>
     </div>
-    {% endif %}
+<!--    {% endif %}-->
 {% endfor %}
 <script>
     $(document).ready(function () {

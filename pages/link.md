@@ -34,6 +34,7 @@ permalink: /link
 - [AI人工智能图片放大](https://bigjpg.com/) - 使用最新人工智能深度学习技术——深度卷积神经网。它会将噪点和锯齿的部分进行补充，实现图片的无损放大
 - [uTools](https://u.tools/) - 一个极简、插件化、跨平台的现代桌面软件
 - [Patatap](https://www.patatap.com/) - Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes. Warning: contains flashing images.
+- [独角兽](https://dujiaoshou.io/) - 🦄独角兽排行是世界独角兽公司的实时排行榜，收录了估值达到 10 亿美元的创业公司。
 
 ## 个人链接
 

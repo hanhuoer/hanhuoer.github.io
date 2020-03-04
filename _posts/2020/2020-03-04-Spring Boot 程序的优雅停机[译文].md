@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java - Collection - HashMap 源码阅读
+title: Spring Boot 程序的优雅停机[译文]
 categories: [Spring Boot,spring-boot]
 category: Java
 tags: [Spring Boot,spring-framework,spring-boot,tomcat,java,tutorial]

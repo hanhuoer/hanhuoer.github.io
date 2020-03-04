@@ -2,7 +2,7 @@
 layout: post
 title: Spring Boot 程序的优雅停机[译文]
 categories: [Spring Boot,spring-boot]
-category: Java
+category: spring-boot
 tags: [Spring Boot,spring-framework,spring-boot,tomcat,java,tutorial]
 keywords: Java,spring-framework,spring-boot,tomcat,graceful-shutdown
 ---

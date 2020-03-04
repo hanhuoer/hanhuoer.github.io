@@ -132,7 +132,7 @@ public class LongProcessController {
 
 ## 本地进程 ID
 
-在你启动程序得时候，你可以启动日志中找到进程 ID 号，以我的为例 `6578`
+在你启动程序的时候，你可以启动日志中找到进程 ID 号，以我的为例 `6578`
 
 ```
 2018-06-28 20:37:28.292  INFO 6578 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''

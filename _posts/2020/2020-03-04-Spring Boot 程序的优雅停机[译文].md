@@ -12,7 +12,8 @@ keywords: Java,spring-framework,spring-boot,tomcat,graceful-shutdown
 ---
 
 > 作者：Marcos Barbero
-  原文网址：https://blog.marcosbarbero.com/graceful-shutdown-spring-boot-apps/
+
+> 原文网址：[https://blog.marcosbarbero.com/graceful-shutdown-spring-boot-apps/](https://blog.marcosbarbero.com/graceful-shutdown-spring-boot-apps/)
 
 本文介绍 Spring Boot 程序的优雅停机处理过程
 

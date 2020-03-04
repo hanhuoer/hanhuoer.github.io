@@ -8,6 +8,7 @@ keywords: Java,spring-framework,spring-boot,tomcat,graceful-shutdown
 ---
 
 今天，我读到 Marcos Barbero 在 2018 年的一篇旧文，介绍了 Spring Boot 程序的优雅停机。
+
 我觉得文中所述跟之前工作时使用 shell 脚本来控制停机的方式有所相同，下面就是原文的翻译。
 
 ---
